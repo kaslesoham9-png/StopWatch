@@ -32,19 +32,19 @@ Install Python 3 on your system. The Turtle module is included with standard Pyt
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/your-username/StopWatch.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-repository
+   cd StopWatch
    ```
 
 3. Run the application:
 
    ```bash
-   python stopwatch.py
+   python Stopwatch.py
    ```
 
 ## 🎮 Controls
@@ -60,7 +60,7 @@ Install Python 3 on your system. The Turtle module is included with standard Pyt
 ## 📂 Project Structure
 
 ```text
-your-repository/
+StopWatch/
 ├── stopwatch.py
 └── README.md
 ```
