@@ -19,9 +19,7 @@ A simple graphical stopwatch built using Python's built-in Turtle graphics modul
 
 ## 📸 Screenshots
 
-Add a screenshot of your stopwatch application below.
 <img width="956" height="847" alt="Screenshot 2026-10-27 233515" src="https://github.com/user-attachments/assets/a116463a-2432-4319-a4d8-907cb4d1fc55" />
-![Python Turtle Stopwatch](screenshot.png)
 
 ## 🚀 Getting Started
 
@@ -84,7 +82,7 @@ your-repository/
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Soham Sudesh Kasle**
 
 ---
 
